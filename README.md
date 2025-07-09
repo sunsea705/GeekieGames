@@ -1,6 +1,6 @@
 # GeekieGames
 
-GeekieGames é uma aplicação simples escrita em C++ que gerencia questões de qualquer tema que você queira (bastando apenas os arquivos de texto, que é onde ficam as questões) dividido por categorias e dificuldade da questão (onde você entrando no modo de adminstrador pode alterar, excluir e criar essas categorias e dificuldades).
+Olá, eu me chamo Carolina. GeekieGames é uma aplicação simples escrita em C++ que gerencia questões de qualquer tema que você queira (bastando apenas os arquivos de texto, que é onde ficam as questões) dividido por categorias e dificuldade da questão (onde você entrando no modo de adminstrador pode alterar, excluir e criar essas categorias e dificuldades). 
 
 A aplicação ainda usando uma autenticação simples com login e senha para permitir múltiplos usuários. Ele ainda consegue marcar as questões como resolvidas, de modo que você só veja questões que você ainda não terminou.
 
